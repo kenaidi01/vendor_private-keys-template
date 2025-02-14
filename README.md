@@ -3,7 +3,7 @@
 # Usage
 
 ```bash
-git clone https://github.com/Kenaidi01/vendor_evolution-priv_keys-template vendor/private-keys/keys
+git clone https://github.com/kenaidi01/vendor_private-keys-template.git vendor/private-keys/keys
 ```
 
 ```bash
